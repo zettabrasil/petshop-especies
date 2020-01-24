@@ -1,0 +1,25 @@
+{
+  "name": "petshop-especies",
+  "version": "0.1.0",
+  "description": "Relação de espécies e raças",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zettabrasil/petshop-especies.git"
+  },
+  "keywords": [
+    "especies",
+    "racas",
+    "petshop",
+    "zettabrasil"
+  ],
+  "author": "Zettabrasil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zettabrasil/petshop-especies/issues"
+  },
+  "homepage": "https://github.com/zettabrasil/petshop-especies#readme"
+}
