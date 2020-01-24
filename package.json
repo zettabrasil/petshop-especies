@@ -1,10 +1,21 @@
 {
-  "name": "petshop-especies",
+  "name": "@zettabrasil/petshop-especies",
   "version": "0.1.0",
   "description": "Relação de espécies e raças",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz",
+    "release": "standard-version"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   },
   "repository": {
     "type": "git",
@@ -29,5 +40,9 @@
     "cz-conventional-changelog": "^3.0.2",
     "husky": "^4.2.1",
     "standard-version": "^7.1.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {}
 }
