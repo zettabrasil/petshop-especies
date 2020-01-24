@@ -7,7 +7,10 @@ const peixe = require('./lib/peixe');
 const reptil = require('./lib/reptil');
 const roedor = require('./lib/roedor');
 
-module.exports = {
+const pelagens = require('./lib/pelagens');
+const portes = require('./lib/portes');
+
+const especies = {
   'Canino': canino,
   'Coelho': coelho,
   'Felino': felino,
@@ -16,4 +19,10 @@ module.exports = {
   'Peixe': peixe,
   'Réptil': reptil,
   'Roedor': roedor,
+};
+
+module.exports = {
+  'especies': especies,
+  'pelagens': pelagens,
+  'portes': portes,
 };
