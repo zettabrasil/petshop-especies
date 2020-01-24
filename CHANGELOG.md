@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/zettabrasil/petshop-especies/compare/v0.1.1...v0.2.0) (2020-01-24)
+
+
+### Features
+
+* add pelages e portes ([d345596](https://github.com/zettabrasil/petshop-especies/commit/d345596f76e2fd35e99ff53d625eb0e16906e325))
+
 ### [0.1.1](https://github.com/zettabrasil/petshop-especies/compare/v0.1.0...v0.1.1) (2020-01-24)
 
 ## 0.1.0 (2020-01-24)
