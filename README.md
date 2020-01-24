@@ -1,18 +1,35 @@
-# Relação de espécies e raças para uso em petshops
+# List of species and breeds for use in petshops
 
 [![npm][npm]][npm-url]
 [![size][size]][size-url]
 
-### Install
+## Install
 
 ```
 npm i -S @zettabrasil/petshop-especies
 ```
 
-OR
+## Usage
 
-```
-npm install --save @zettabrasil/petshop-especies
+```js
+import { especies, pelagens, portes } from '@zettabrasil/petshop-especies';
+// or
+const { especies, pelagens, portes } = require('@zettabrasil/petshop-especies');
+
+especies: {
+  "Canino": [...],
+  "Coelho": [...],
+  "Felino": [...],
+  "Outros": [...],
+  "Pássaro": [...],
+  "Peixe": [...],
+  "Réptil": [...],
+  "Roedor": [...]
+}
+
+pelagens: [...]
+
+portes: [...]
 ```
 
 [npm]: https://badge.fury.io/js/%40zettabrasil%2Fpetshop-especies.svg
