@@ -1,0 +1,1375 @@
+[
+  {
+    "nome": "Affenpinscher",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda e companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Alerta, doce, apegado ao dono",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Afghan Hound",
+    "origem": "Afeganistão",
+    "nomeOriginal": "Afghan Hound",
+    "utilizacao": "Cão de Corrida, Cão de Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Digno,  Indiferente, mas sociável",
+    "adestrabilidade": "Baixa"
+  },
+  {
+    "nome": "Airedale Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Airedale Terrier",
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado, Alerta, Confiante",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Akita",
+    "origem": "Japão",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Calmo, Dócil, Fiel, Receptivo",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Akita Americano",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Amigável, Fiel, Corajoso, Receptivo",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "American Pit Bull Terrier",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": null,
+    "porte": null,
+    "exercicioDiario": null,
+    "temperamento": null,
+    "adestrabilidade": null
+  },
+  {
+    "nome": "Australian Cattle Dog",
+    "origem": "Austrália",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, Obediente, Corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Barbet",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado,  apegado ao dono",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Basenji",
+    "origem": "África Central",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça e Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Muito Alta",
+    "temperamento": "Alerta, Independente,  Afetuoso",
+    "adestrabilidade": "Baixa"
+  },
+  {
+    "nome": "Basset Fulvo da Bretanha",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Faro (Caça)",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Sociável,  Corajoso, Equilibrado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Basset Hound",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Basset Hound",
+    "utilizacao": "Cão  Farejador",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, Afetuoso, Instintivo",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Beagle",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Pequeno / Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Equilibrado, Alegre",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Bearded Collie",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, um pouco teimoso, corajoso",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Bichon Frisé",
+    "origem": "Bélgica / França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil, Alegre, Jovial",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Bichon Havanês",
+    "origem": "Cuba",
+    "nomeOriginal": "Bichon Havanais",
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil, Inteligente, brincalhão",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Bloodhound",
+    "origem": "Bélgica",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça e companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, gentil, sociável, fiel ao dono",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Boiadeiro Bernês",
+    "origem": "Suíça",
+    "nomeOriginal": null,
+    "utilizacao": "Guarda, tração e condução de gado",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, confiável, atencioso, corajoso",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Border Collie",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Border Collie",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, Equilibrado, Sociável",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Borzoi",
+    "origem": "Rússia",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça e corrida",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Tranquilo, equilibrado",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Boston Terrier",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno / Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Afetuoso, gentil, muito inteligente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Bouvier de Flandres",
+    "origem": "Bélgica / França",
+    "nomeOriginal": null,
+    "utilizacao": "Cãe de caça, pastoreio, tração",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Calmo,  destemido, equilibrado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Boxer",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Guarda, Companhia e Trabalho",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil,  Desconfiado com Estranhos",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Braco Alemão de Pelo Curto",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado, confiável, dócil",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Braco Húngaro de Pelo Curto",
+    "origem": "Hungria",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça, Cão de Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, equilibrado, amável",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Braco Italiano",
+    "origem": "Itália",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, confiável, inteligente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Briard (Pastor de Brie)",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda e pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado, corajoso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Buldogue Campeiro",
+    "origem": "Brasil",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda, Cão de Trabalho",
+    "porte": "Médio / Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Tranquilo, protetor, corajoso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Buldogue Francês",
+    "origem": "França",
+    "nomeOriginal": "Bouledogue Français",
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Sociável, Alegre, Afetuoso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Bull Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Caça",
+    "porte": "Pequeno / Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Equilibrado, Corajoso, Obstinado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Bulldog",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Afetuoso, Leal, Confiável, Corajoso",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Bullmastiff",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Ativo, Alerta, Fiel, Firme, Confiável",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Cairn Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Pequeno/Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, alegre, corajoso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Cane Corso Italiano",
+    "origem": "Itália",
+    "nomeOriginal": "Cane Corso Italiano",
+    "utilizacao": "Cão de Guarda, Defesa, Farejador",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Protetor,  obediente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Cavalier King Charles Spaniel",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Cavalier King Charles Spaniel",
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Ativo, Dócil, Alegre",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Chihuahua",
+    "origem": "México",
+    "nomeOriginal": "Chihuahua",
+    "utilizacao": "Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Vivaz, Corajoso, Alerta",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Chow Chow",
+    "origem": "China",
+    "nomeOriginal": "Chow Chow",
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Leal, Independente, Reservado",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Cimarrón Uruguayo",
+    "origem": "Uruguai",
+    "nomeOriginal": null,
+    "utilizacao": "Trabalho, Caça, Guarda e Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Equilibrado, Inquisitivo, Corajoso",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Clumber Spaniel",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Levantador de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil, Amável, Inteligente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Cocker Spaniel Americano",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado, Alegre,  Destemido",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Cocker Spaniel Inglês",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão levantador de caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alegre, Dócil,  Afetuoso, Ativo",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Collie",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Alegre, Amistoso, Equilibrado",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Coton de Tuléar",
+    "origem": "Madagascar / França",
+    "nomeOriginal": "Chien de Berger Belge",
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Alegre, sociável, equilibrado",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Cuvac Slovaco",
+    "origem": "República Slovaca",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Equilibrado, afetuoso, protetor",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Cão D'água Português",
+    "origem": "Portugal",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda, nado, mergulho",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Alegre, Altivo, Obediente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Cão da Montanha dos Pireneus",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Independente, protetor",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Cão da Serra da Estrela",
+    "origem": "Portugal",
+    "nomeOriginal": null,
+    "utilizacao": "Guarda de Rebanho, Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, porém bom protetor",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Cão de Crista Chinês",
+    "origem": "China / Grã-Bretanha",
+    "nomeOriginal": "Chinese Crested Dog",
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Ativo, Alegre",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Cão Fila de São Miguel",
+    "origem": "Portugal",
+    "nomeOriginal": null,
+    "utilizacao": "Cão Boiadeiro",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Forte com estranhos, receptivo",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Dachshund",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Pequeno",
+    "exercicioDiario": "Baixa / Média",
+    "temperamento": "Amigável, Equilibrado, Perceverante",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Dobermann",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Companhia, Guarda e Trabalho",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Corajoso, Amigável, Calmo",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Dogo Argentino",
+    "origem": "República Argentina",
+    "nomeOriginal": "Dogo Argentino",
+    "utilizacao": "Cão de Caça, Cão de Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado, dócil, obediente",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Dogue Alemão",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Escolta, Guarda,  Companhia",
+    "porte": "Gigante",
+    "exercicioDiario": "Alta",
+    "temperamento": "Afetuoso, Corajoso, Auto-confiante",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Dogue de Bodeaux",
+    "origem": "França",
+    "nomeOriginal": "Dogue de Bordeaux",
+    "utilizacao": "Cão de Guarda",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Equilibrado, calmo, bom guarda",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Dálmata",
+    "origem": "República Croata",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Comanhia, Várias Utilidades",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Sociável, Sem Timidez",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Fila Brasileiro",
+    "origem": "Brasil",
+    "nomeOriginal": "Fila Brasileiro",
+    "utilizacao": "Cão de Guarda e Boiadeiro",
+    "porte": "Grande / Gigante",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Obediente, intolerante a estranhos",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Flat Coated Retriever",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alegre, dócil, inteligente",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Fox Terrier Pelo Duro",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Amigável, Sociável, Destemido",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Fox Terrier Pelo Liso",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Amigável, Sociável, Destemido",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Foxhound Inglês",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "English Foxhound",
+    "utilizacao": "Cão de Caça",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Amigável, Vigoroso",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Golden Retriever",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio a Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Muito Dócil, Ativo",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Greyhound",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Corrida e Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Gentil, afetuoso, equilibrado",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Griffon de Bruxelas",
+    "origem": "Bélgica",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Alerta, apegado ao dono",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Husky Siberiano",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Trenó",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Amigável, Gentil",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Irish Wolfhound",
+    "origem": "Irlanda",
+    "nomeOriginal": null,
+    "utilizacao": "Caça",
+    "porte": "Grande / Gigante",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Afetuoso, Corajoso",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Jack Russell Terrier",
+    "origem": "Inglaterra",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça, Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Alta",
+    "temperamento": "Ativo, alerta, corajoso, Inteligente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Keeshond",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alegre, ativo, esperto, dócil",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Kerry Blue Terrier",
+    "origem": "Irlanda",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça, Guarda e Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Inteligente, ativo, alerta",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Komondor",
+    "origem": null,
+    "nomeOriginal": "Komondor",
+    "utilizacao": null,
+    "porte": null,
+    "exercicioDiario": null,
+    "temperamento": null,
+    "adestrabilidade": null
+  },
+  {
+    "nome": "Kuvasz",
+    "origem": "Hungria",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda e companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Muito Alta",
+    "temperamento": "Afetuoso, Fiel, Destemido",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Labrador Retriever",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio a Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Muito Dócil, Afetuoso, Inteligente",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Lhasa Apso",
+    "origem": "Tibet",
+    "nomeOriginal": "Lhasa Apso",
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Baixa / Média",
+    "temperamento": "Equilibrado, Alegre, Seguro",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Lulu da Pomerânia",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil,   Desconfiado com estranhos",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Malamute do Alaska",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Trenó",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Muito amigável, Leal",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Maltês",
+    "origem": null,
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Baixa / Média",
+    "temperamento": "Muito Dócil, Alegre, Afetuoso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Mastiff",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Defesa",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Calmo,  Indiferente a Estranhos",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Mastim Espanhol",
+    "origem": "Espanha",
+    "nomeOriginal": "Mastín Español",
+    "utilizacao": "Cão de Guarda e Defesa",
+    "porte": "Grande / Gigante",
+    "exercicioDiario": "Média",
+    "temperamento": "Inteligente, carinhoso, protetor",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Mastim Tibetano",
+    "origem": "Tibete",
+    "nomeOriginal": "Tibetan Mastiff (Do-Khyi)",
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Protetor, Territorial, Leal",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Mastino Napoletano",
+    "origem": "Itália",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Defesa",
+    "porte": "Grande / Gigante",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Leal, Vigilante, Não Agressivo",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Norfolk Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça, cão de companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Alta",
+    "temperamento": "Amável, destemido, ativo, alerta",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Nova Scotia Duck Tolling Retriever",
+    "origem": "Canadá",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça (levantador de caça)",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alegre, dócil, inteligente",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Old English Sheepdog",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Old English Sheepdog (Bobtail)",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil, Fiel, Corajoso, Confiável",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Otterhound",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça e Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Equilibrado, dócil, ativo",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Pastor Alemão",
+    "origem": "Alemanha",
+    "nomeOriginal": "Deutscher Schäferhund",
+    "utilizacao": "Pastoreio, Guarda e Trabalho",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Equilibrado, Vigilante",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Australiano",
+    "origem": "Estados Unidos da América",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Animado, Inteligente, Protetor",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Belga",
+    "origem": "Bélgica",
+    "nomeOriginal": "Chien de Berger Belge",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, vigilante, corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Belga Groenendael",
+    "origem": "Bélgica",
+    "nomeOriginal": "Chien de Berger Belge",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, vigilante, corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Belga Laekenois",
+    "origem": "Bélgica",
+    "nomeOriginal": "Chien de Berger Belge",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, vigilante, corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Belga Malinois",
+    "origem": "Bélgica",
+    "nomeOriginal": "Chien de Berger Belge",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, vigilante, corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Belga Tervuren",
+    "origem": "Bélgica",
+    "nomeOriginal": "Chien de Berger Belge",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, vigilante, corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor Bergamasco",
+    "origem": "Itália",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda e companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, equilibrado, protetor",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Pastor Branco Suíço",
+    "origem": "Suíça",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda e companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alegre, equilibrado, protetor",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Pastor de Beauce",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Destemido, gentil, tranquilo",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Pastor de Shetland",
+    "origem": "Grã Bretanha",
+    "nomeOriginal": "Shetland Sheepdog",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Pequeno",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, alerta, vigilante",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pastor de Tatra",
+    "origem": "Polônia",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Pastoreio",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Calmo, inteligente, alerta",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Pastor Maremano Abruzês",
+    "origem": "Itália",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de guarda de rebanho",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Corajoso, apegado ao dono",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Pequinês",
+    "origem": "China / Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, Corajoso, Leal, Indiferente",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Perdigueiro Português",
+    "origem": "Portugal",
+    "nomeOriginal": "Perdigueiro Português",
+    "utilizacao": "Cão de Caça",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Calmo, Vivaz, Afetivo, Submisso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Petit Basset Griffon Vendéen",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil, vigoroso, ativo, corajoso",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Pinscher Miniatura",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Vivo, Equilibrado, Temperamental",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Podengo Português",
+    "origem": "Portugal",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça, Guarda e Companhia",
+    "porte": "Pequeno, Médio e Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alerta, Ativo, Companheiro",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Pointer Inglês",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Equilibrado, Alerta, Agradável",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Poodle",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Companhia",
+    "porte": "Pequeno a Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil, Fiel, Ativo, Inteligente",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Pug",
+    "origem": "China / Grã-Bretanha",
+    "nomeOriginal": "Pug",
+    "utilizacao": "Guarda e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Equilibrado, disposto, alegre",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Puli",
+    "origem": "Hungria",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Inteligente, protetor",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Pumi",
+    "origem": "Hungria",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de pastoreio e companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, inquieto, vigilante",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Rhodesian Ridgeback",
+    "origem": "África do Sul",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça, guarda e companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Dócil, inteligente, protetor",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Rottweiler",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Tração, Guarda e Boiadeiro",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Amigável, Auto-Confiante, Corajoso",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Saluki",
+    "origem": "Oriente Médio",
+    "nomeOriginal": null,
+    "utilizacao": "Caça e corrida",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, reservado com estranhos",
+    "adestrabilidade": "Baixa / Média"
+  },
+  {
+    "nome": "Samoieda",
+    "origem": "Rússia / Sibéria",
+    "nomeOriginal": "Samoiedskaïa Sabaka",
+    "utilizacao": "Cão de Trenó, Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Amigável, Aberto, Dócil",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Schipperke",
+    "origem": "Bélgica",
+    "nomeOriginal": "Schipperke",
+    "utilizacao": "Guarda e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Inteligente, dócil, bom com crianças",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Schnauzer",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Vivo, Tranquilo, Leal, Equilibrado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Schnauzer Gigante",
+    "origem": "Alemanha",
+    "nomeOriginal": "Riesenschnauzer",
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Vivo, Tranquilo, Leal, Equilibrado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Schnauzer Miniatura",
+    "origem": "Alemanha",
+    "nomeOriginal": "Zwergschnauzer",
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Alta",
+    "temperamento": "Vivo, Tranquilo, Leal, Equilibrado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Setter Gordon",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Grande",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Inteligente, gentil, sociável, calmo",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Setter Inglês",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "English Setter",
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Ativo, Amigável, Equilibrado",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Setter irlandês Ruivo",
+    "origem": "Irlanda",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça e Companhia",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Ativo, Vivo, Afetivo, Leal, Inteligente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Shar Pei",
+    "origem": "China",
+    "nomeOriginal": null,
+    "utilizacao": "Defesa e Guarda",
+    "porte": "Médio",
+    "exercicioDiario": "Baixa / Média",
+    "temperamento": "Calmo, Leal, Independente",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Shiba",
+    "origem": "Japão",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça, cão de companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Alerta, fiel, companheiro",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Shih Tzu",
+    "origem": "Tibet / Grã-Bretanha",
+    "nomeOriginal": "Shih Tzu",
+    "utilizacao": "Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Baixa / Média",
+    "temperamento": "Carinhoso, Independente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Spaniel Bretão (Brittany Spaniel)",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Inteligente, equilibrado, adaptável",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Spaniel Francês",
+    "origem": "França",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Inteligente, equilibrado, gentil",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Spitz Alemão",
+    "origem": "Alemanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Comapanhia",
+    "porte": "Pequeno / Médio / Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Dócil,   Desconfiado com estranhos",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Spitz Japonês",
+    "origem": "Japão",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Inteligente, calmo, alegre",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Springer Spaniel Inglês",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão Levantador de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alegre, amigável, apto ao trabalho",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "SRD"
+  },
+  {
+    "nome": "Staffordshire Bull Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça",
+    "porte": "Médio",
+    "exercicioDiario": "Muito Alta",
+    "temperamento": "Inteligente, Afetuoso, Corajoso",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "São Bernardo",
+    "origem": "Suíça",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Guarda e Companhia",
+    "porte": "Gigante",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Amigável, Calmo, Vigilante",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Terra Nova",
+    "origem": "Canadá",
+    "nomeOriginal": "Newfoundland",
+    "utilizacao": "Cão de Trenó e Cão D'Água",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Alegre, Gentil, Sereno",
+    "adestrabilidade": "Média / Alta"
+  },
+  {
+    "nome": "Terrier Brasileiro",
+    "origem": "Brasil",
+    "nomeOriginal": "Terrier Brasileiro",
+    "utilizacao": "Cão de Caça, Guarda e Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Alerta, Ativo, Amigável, Gentil",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Terrier Escocês",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de caça",
+    "porte": "Médio",
+    "exercicioDiario": "Média",
+    "temperamento": "Inteligente, leal, reservado, valente",
+    "adestrabilidade": "Muito Alta"
+  },
+  {
+    "nome": "Terrier Tibetano",
+    "origem": null,
+    "nomeOriginal": null,
+    "utilizacao": "Tração, Companhia",
+    "porte": "Pequeno a Médio",
+    "exercicioDiario": "Média a Alta",
+    "temperamento": "Fiel, Ativo, Inteligente",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Tosa",
+    "origem": "Japão",
+    "nomeOriginal": "Tosa",
+    "utilizacao": "Cão de Guarda",
+    "porte": "Grande",
+    "exercicioDiario": "Média",
+    "temperamento": "Paciente, audacioso, corajoso",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Weimaraner",
+    "origem": "Alemanha",
+    "nomeOriginal": "Weimaraner",
+    "utilizacao": "Cão de caça e de aponte",
+    "porte": "Grande",
+    "exercicioDiario": "Alta",
+    "temperamento": "Dócil, Inteligente, brincalhão",
+    "adestrabilidade": "Obediente, versátil, calmo"
+  },
+  {
+    "nome": "Welsh Corgi Cardigan",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Cardigan Welsh Corgi",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Ativo, Confiável, Inteligente",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Welsh Corgi Pembroke",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Pembroke Welsh Corgi",
+    "utilizacao": "Cão de Pastoreio",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média",
+    "temperamento": "Corajoso, amigável, tranquilo",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "West Highland White Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Caça e Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Média / Alta",
+    "temperamento": "Independente, Afetuoso, Ativo",
+    "adestrabilidade": "Alta"
+  },
+  {
+    "nome": "Whippet",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": null,
+    "utilizacao": "Cão de Corrida e Companhia",
+    "porte": "Médio",
+    "exercicioDiario": "Alta",
+    "temperamento": "Gentil, equilibrado, adaptável",
+    "adestrabilidade": "Média"
+  },
+  {
+    "nome": "Yorkshire Terrier",
+    "origem": "Grã-Bretanha",
+    "nomeOriginal": "Yorkshire Terrier",
+    "utilizacao": "Companhia",
+    "porte": "Pequeno",
+    "exercicioDiario": "Baixa",
+    "temperamento": "Dócil, Alerta, Inteligente",
+    "adestrabilidade": "Alta"
+  }
+]
