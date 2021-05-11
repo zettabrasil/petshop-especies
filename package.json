@@ -1,11 +1,12 @@
 {
   "name": "@zettabrasil/petshop-especies",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Relação de espécies e raças",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
-    "release": "standard-version"
+    "release": "standard-version",
+    "postinstall": "husky install"
   },
   "husky": {
     "hooks": {
@@ -34,15 +35,14 @@
   },
   "homepage": "https://github.com/zettabrasil/petshop-especies#readme",
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
     "commitizen": "^4.0.3",
-    "cz-conventional-changelog": "^3.1.0",
-    "husky": "^4.2.3",
-    "standard-version": "^8.0.1"
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^6.0.0",
+    "standard-version": "^9.3.0"
   },
   "directories": {
     "lib": "lib"
-  },
-  "dependencies": {}
+  }
 }
